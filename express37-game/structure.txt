@@ -1,0 +1,15 @@
+express37-game/
+├── bot/
+│   ├── bot.py
+│   ├── database.py
+│   ├── server.py
+│   ├── requirements.txt
+│   ├── Procfile
+│   └── railway.json
+├── docs/
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── game.js
+└── README.md
