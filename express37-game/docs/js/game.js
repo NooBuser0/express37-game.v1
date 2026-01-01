@@ -1,6 +1,7 @@
 // ===== КОНФИГУРАЦИЯ =====
 // ВАЖНО: Замените на URL вашего Railway сервера после деплоя!
-const API_URL = 'bot-rollete-production.up.railway.app'; // Пока пустой, будет работать в демо-режиме
+// ===== КОНФИГУРАЦИЯ =====
+const API_URL = 'https://bot-rollete-production.up.railway.app'; // Пока пустой, будет работать в демо-режиме
 
 // ===== СОСТОЯНИЕ ИГРЫ =====
 let authToken = '';
@@ -463,4 +464,5 @@ function vibrate(type) {
 
 
 console.log('🎰 Express 37 Loaded!');
+
 
